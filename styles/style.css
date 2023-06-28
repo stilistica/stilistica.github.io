@@ -1,0 +1,52 @@
+html {
+  font-size: 24px;
+  font-family: "Inika", serif;
+
+  background-color: #9ad3c9;
+}
+body {
+  width: 1080px;
+	margin: 20px auto;
+	padding: 5px 15px;
+	border: 5px solid black;
+	background-color: #cda5bd;
+	
+}
+h1 {
+	margin: 0;
+	padding: 45px 0;
+
+
+  font-family: "Ingrid Darling", cursive;
+  font-size: 120px;
+	/* text-shadow: 5px 5px 100px rgb(100, 92, 92); */
+
+  text-align: center;
+}
+img {
+	/* width: 600px;
+	height: 600px; */
+	display: block;
+	margin: 0 auto 40px auto;
+	/* text-shadow: 5px 5px 100px rgb(100, 92, 92); */
+}
+p {
+	margin-bottom: 10px;
+}
+p,
+li {
+  line-height: 1.2;
+  letter-spacing: 1px;
+	text-align: justify;
+}
+button {
+	width: 300px;
+	padding: 15px;
+	margin-bottom: 15px;
+	background-color: #9ad3c9;
+	border-radius: 25px;
+	border: 1px solid #000;
+	font-family: "Ingrid Darling", cursive;
+  font-size: 30px;
+	color: #000;
+}
